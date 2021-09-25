@@ -14,7 +14,7 @@
 
 This application triggers the blue screen for the mod [Don't Take Damage](https://github.com/DevPieter/Dont-Take-Damage).
 
-When it finds a file named 'trigger_bsod.txt' in the temporary directory (%temp%), it will trigger the blue screen.
+When it finds a file named 'trigger_bsod.txt' in the temporary directory (%temp%), it will trigger a blue screen.
 
 It triggers a blue screen by killing the process 'svchost.exe'
 
