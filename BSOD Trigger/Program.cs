@@ -14,7 +14,7 @@ namespace BSOD_Trigger
                 if (File.Exists(path))
                     File.Delete(path);
 
-                Console.Title = "Don't Take Damage | IMPORTAN Don't close this window!";
+                Console.Title = "Don't Take Damage | IMPORTANT Don't close this window!";
                 Console.WindowWidth = 131;
                 Console.WindowHeight = 14;
 
